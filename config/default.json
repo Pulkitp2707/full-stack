@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://pulkit:pulkit@devconnector-ly2xr.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecretkey",
+    "githubClientId" : "5ca59304eb020389e54d",
+    "githubSecret" : "36b8b92389d1197c55c7294b06c7f3eb97b63c1f"
+}
